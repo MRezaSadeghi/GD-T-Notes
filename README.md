@@ -9,3 +9,7 @@ Main resouse of my research/practice is [Technical Drawing for Product Design](h
 * Each feature of a workpiece should be fully defined in terms of dimension, position, orientation and form.
 * GD&amp;T is a tool that allows an imperfect geometry to be managed perfectly.
 * Traditional Dimesioning: Using plus and minus for drawings spesification.
+
+<p align="center">
+  <img src="https://github.com/MRezaSadeghi/GD-T-Notes/blob/main/images/ch01-01.jpg" style="width:250px"/>
+</p>
