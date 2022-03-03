@@ -11,5 +11,16 @@ Main resouse of my research/practice is [Technical Drawing for Product Design](h
 * Traditional Dimesioning: Using plus and minus for drawings spesification.
 
 <p align="center">
-  <img src="https://github.com/MRezaSadeghi/GD-T-Notes/blob/main/images/ch01-01.jpg" style="width:250px"/>
+  <img src="https://github.com/MRezaSadeghi/GD-T-Notes/blob/main/images/ch01-01.jpg" style="width:550px"/>
 </p>
+
+## Chapter 2: The Geometrical Product Specification (GPS) Language
+* Standards: ISO17450, ISO1101, ISO14660
+* Geometrical features domains according to the ISO 14660/1 standard
+    * The specification domain (representations of the future workpiece - imaged by the designer)
+    * The workpiece domain (the physical world domain)
+    * The inspection domain (epresentation of a given workpiece is used through the sampling of the workpiece with measuring instruments)
+* Geometrical features according to the ISO 17450/1 standard
+    * Integral (real surface of a workpiece)
+    * Associated (ideal feature that is established from a non-ideal model)
+    * Derived (features that represent the model - not sure!)
