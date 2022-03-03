@@ -1,2 +1,2 @@
 # GD-T-Notes
-I will note some notable part of Geometric Dimensions and Tolerances (GD&amp;T)) here.
+I will write down some notable part of Geometric Dimensions and Tolerances (GD&amp;T)) here.
